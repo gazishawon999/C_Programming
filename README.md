@@ -26,12 +26,11 @@ Launch **Visual Studio Code** on your computer.
 - Compile your code:
   ```bash
   gcc hello.c -o hello
-  📝 Example Program Structure
-  #include <stdio.h>
 
+📝 Example Program Structure
+#include <stdio.h>
 int main() {
     // Your code here
-    printf("Hello, C Programming!\n");
-
+    printf("This is me SHAWON GAZI!\n");
     return 0;
 }
